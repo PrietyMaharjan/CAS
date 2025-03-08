@@ -1,0 +1,40 @@
+.frontpage{
+    background-color: red;
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    height: 100vh;  
+    margin: 0;
+}
+
+
+.CAS{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin: 0;
+}
+
+.stay{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.button{
+    background-color: #D3AA32;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px 210px;
+    border: none;
+    border-radius: 30px; 
+    cursor: pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 10%;
+}
+
+.button:hover{
+    background-color: blue;
+    cursor: pointer;
+}
